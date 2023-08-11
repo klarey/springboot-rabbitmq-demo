@@ -1,0 +1,5 @@
+net/rabbitmq/demo/springboot/config/RabbitMQConfig.class
+net/rabbitmq/demo/springboot/publisher/RabbitMQPublisher.class
+net/rabbitmq/demo/springboot/controller/MessageController.class
+net/brownbag/springboot/SpringbootRabbitmqDemoApplication.class
+net/rabbitmq/demo/springboot/consumer/RabbitMQConsumer.class
